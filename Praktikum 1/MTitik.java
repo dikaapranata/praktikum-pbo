@@ -1,7 +1,7 @@
 /*
 	MTitik.java  23/02/2023
 	Nama      : Handhika Pranata Kusuma Wardana
-	NIM       : 24060121120012
+	NIM       : 24060121140112
 	Deskripsi : kelas untuk MTitik
 */
 
