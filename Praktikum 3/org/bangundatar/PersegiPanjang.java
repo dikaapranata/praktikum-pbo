@@ -1,7 +1,7 @@
 /*
 	PersegiPanjang.java  08/03/2023
 	Nama      : Handhika Pranata Kusuma Wardana
-	NIM       : 24060121120012
+	NIM       : 24060121140012
 	Deskripsi : representasi dari objek persegi panjang, turunan kelas poligon
 */
 
