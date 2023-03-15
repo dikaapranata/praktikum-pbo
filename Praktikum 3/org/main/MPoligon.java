@@ -1,7 +1,7 @@
 /*
 	MPoligon.java  08/03/2023
 	Nama      : Handhika Pranata Kusuma Wardana
-	NIM       : 24060121120012
+	NIM       : 24060121140012
 	Deskripsi : driver class untuk poligon dan persegi panjang
 */
 
