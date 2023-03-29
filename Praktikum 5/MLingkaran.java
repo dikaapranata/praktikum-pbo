@@ -1,7 +1,7 @@
 /**
-* File		    : MLingkaran.java 26-03-2023
+* File		: MLingkaran.java 26-03-2023
 * Nama / NIM	: Handhika Pranata Kusuma Wardana / 24060121140112
-* Deskripsi	    : Implementasi untuk menghitung luas lingkaran
+* Deskripsi     : Implementasi untuk menghitung luas lingkaran
 */
 
 import java.util.Scanner;
