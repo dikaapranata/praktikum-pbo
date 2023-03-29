@@ -1,7 +1,7 @@
 /**
-* File		    : Lingkaran.java 26-03-2023
+* File		: Lingkaran.java 26-03-2023
 * Nama / NIM	: Handhika Pranata Kusuma Wardana / 24060121140112
-* Deskripsi	    : Kelas implementasi IArea berupa cara untuk menghitung luas lingkaran
+* Deskripsi     : Kelas implementasi IArea berupa cara untuk menghitung luas lingkaran
 */
 
 import static java.lang.Math.PI;
