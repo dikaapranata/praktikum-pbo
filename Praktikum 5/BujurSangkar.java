@@ -1,7 +1,7 @@
 /**
-* File		    : BujurSangkar.java 25/03/2023
-* Nama / NIM	: Handhika Pranata Kusuma Wardana / 24060121140112
-* Deskripsi	  : Kelas yang membuat implementasi metode abstrak pada bangun datar
+* File		    : BujurSangkar.java 26-03-2023
+* Nama / NIM	    : Handhika Pranata Kusuma Wardana / 24060121140112
+* Deskripsi	    : Kelas yang membuat implementasi metode abstrak pada bangun datar
 */
 
 public class BujurSangkar extends BangunDatar{
