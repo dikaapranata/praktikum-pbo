@@ -1,6 +1,6 @@
 /*
 
-* File		    : AngkaSialException.java 02-04-2023
+* File		: AngkaSialException.java 02-04-2023
 * Nama / NIM    : Handhika Pranata Kusuma Wardana / 24060121140112
 * Deskripsi  	: Eksepsi buatan sendiri, menolak masukan angka 13!
 
