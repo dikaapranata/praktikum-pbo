@@ -1,7 +1,7 @@
 /*
 
 * File		    : AngkaSial.java 02-04-2023
-* Nama / NIM    : Handhika Pranata Kusuma Wardana / 24060121140112
+* Nama / NIM        : Handhika Pranata Kusuma Wardana / 24060121140112
 * Deskripsi	    : Program penggunaan exception buatan sendiri
 	              pengenalan klausa 'throw' dan 'throws'
 
