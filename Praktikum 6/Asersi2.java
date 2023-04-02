@@ -1,9 +1,9 @@
 /*
 
 * File		    : Asersi2.java 02-04-2023
-* Nama / NIM    : Handhika Pranata Kusuma Wardana / 24060121140112
+* Nama / NIM        : Handhika Pranata Kusuma Wardana / 24060121140112
 * Deskripsi	    : Program untuk demo asersi, yang akan menolak input
-		          jari-jari lingkaran yang bernilai nol
+		      jari-jari lingkaran yang bernilai nol
 */
 
 //class Lingkaran
