@@ -1,6 +1,6 @@
 /*
 
-* File		    : Asersi1.java 02-04-2023
+* File	        : Asersi1.java 02-04-2023
 * Nama / NIM    : Handhika Pranata Kusuma Wardana / 24060121140112
 * Deskripsi  	: Program untuk menunjukkan asersi
 
