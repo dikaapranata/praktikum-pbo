@@ -1,6 +1,6 @@
 /*
 
-* File		    : ExceptionOnArray.java 02-04-2023
+* File		: ExceptionOnArray.java 02-04-2023
 * Nama / NIM    : Handhika Pranata Kusuma Wardana / 24060121140112
 * Deskripsi   	: Program penggunaan eksepsi menggunakan class library Java
 
