@@ -1,6 +1,6 @@
 /**
  * File      : DiskonLambda.java	04/06/2023
- * Penulis	 : Handhika Pranata Kusuma Wardana - 24060121140112
+ * Penulis	  : Handhika Pranata Kusuma Wardana - 24060121140112
  * Deskripsi : Ekspresi lambda dasar, digunakan untuk mengitung diskon.
  *
  */
